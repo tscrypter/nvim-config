@@ -28,7 +28,6 @@ return {
                 "rust_analyzer",
                 "markdown_oxide",
 		"angularls",
-		"apex_ls",
 		"bashls",
 		"omnisharp",
 		"cucumber_language_server",
